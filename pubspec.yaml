@@ -3,9 +3,3 @@ version: 0.0.1
 author: Richard Lincoln <r.w.lincoln@gmail.com>
 description: Scientific and statistical computing
 homepage: https://github.com/rwl/science.dart
-environment:
-  sdk: '>=1.13.0'
-dependencies:
-  js: ^0.6.0
-dev_dependencies:
-  browser: any
